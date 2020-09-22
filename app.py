@@ -25,7 +25,7 @@ app = flask.Flask(__name__)
 # Note: A secret key is included in the sample so that it works.
 # If you use this code in your application, replace this with a truly secret
 # key. See https://flask.palletsprojects.com/quickstart/#sessions.
-app.secret_key = 'tDNSGJMgcIXVbj0hKBHAqbFv'
+app.secret_key = 'xxxxx'
 
 
 @app.route('/')
