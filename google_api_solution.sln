@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "google_api_flask_project_", "google_api_flask_project_.pyproj", "{45DFAFE0-90D9-430D-95DE-CB63C044E8AD}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "google_api_flask_repo", "google_api_flask_repo.pyproj", "{45DFAFE0-90D9-430D-95DE-CB63C044E8AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
