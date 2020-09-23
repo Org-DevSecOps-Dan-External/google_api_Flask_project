@@ -12,7 +12,7 @@ import googleapiclient.discovery
 # information for this application, including its client_id and client_secret.
 CLIENT_SECRETS_FILE = "client_secret.json"
 
-# This OAuth 2.0 access scope allows for full read/write access to the
+# This OAuth 2.0 access scope allows for full read/write access to the -
 # authenticated user's account and requires requests to use an SSL connection.
 SCOPES = ['https://www.googleapis.com/auth/calendar.calendarlist.readonly',
           'https://www.googleapis.com/auth/plus.me',
